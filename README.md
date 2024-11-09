@@ -1,5 +1,7 @@
 QueueOperations-C
-Welcome to the QueueOperations-C repository! This project provides a comprehensive implementation of queue operations for different data types (int, float, char). You can use this to handle queue-based operations in your C programs with ease.
+=================
+
+Welcome to the QueueOperations-C repository! This project provides a comprehensive implementation of queue operations for different data types (int, float, char). You can use this to handle queue-based operations in C programs with ease.
 
 Clone the Repository
 To get started, you can clone the repository using the following link:
