@@ -8,7 +8,7 @@ Clone the Repository
 
 To get started, you can clone the repository using the following link:
 
-    git clone https://github.com/souhardyaghosh/QueueOperations-C.git
+    git clone https://github.com/msasama/QueueOperations-C.git
 
 Setting Up
 ----------
@@ -82,4 +82,4 @@ This project is open to contributions! Feel free to fork the repo, make changes,
 
 Contact me via GitHub or email if you have any questions or suggestions.
 
-[Visit the GitHub Repository](https://github.com/souhardyaghosh/QueueOperations-C.git)
+[Visit the GitHub Repository](https://github.com/msasama/QueueOperations-C.git)
