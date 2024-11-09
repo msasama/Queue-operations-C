@@ -82,4 +82,4 @@ This project is open to contributions! Feel free to fork the repo, make changes,
 
 Contact me via GitHub or email if you have any questions or suggestions.
 
-[Visit the GitHub Repository](https://github.com/msasama/QueueOperations-C.git)
+[Visit the GitHub Repository](https://github.com/msasama/Queue-operations-C)
